@@ -1,0 +1,24 @@
+isearch (C-s, C-r)
+==================
+search banana s
+
+    banana    
+   grape
+
+apple
+             lemon
+  pineapple
+
+  orange    lemon
+
+           mango
+    apple
+
+  banana
+     watermelon
+banana 
+
+                  melon
+
+orange
+   banana

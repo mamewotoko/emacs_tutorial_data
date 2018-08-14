@@ -1,0 +1,15 @@
+Shell
+=====
+
+1. run banner
+
+```
+banner -w 30 emacs
+```
+
+2. run python and calculate 1 + 2 + .. + 10
+
+```
+python
+sum(range(1,11))
+```
