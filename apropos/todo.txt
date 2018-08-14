@@ -1,0 +1,6 @@
+apropos
+========
+
+search magit functions
+
+
